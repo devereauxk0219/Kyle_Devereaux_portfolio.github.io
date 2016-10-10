@@ -32,6 +32,7 @@ header#mainHeader div{
 	margin-top: 16px;
 }
 header#mainHeader ul{
+	margin-left: -60px;
 	list-style: none;
 	float: left;
 }
