@@ -78,6 +78,12 @@ aside#hobbies {
 	width: 450px;
 	margin-bottom: 20px;
 }
+aside#hobbies p {
+	color: black;
+}
+section#content#welcomeP p {
+	margin-bottom: 50px;
+}
 
 footer#pageFooter {
 	clear: both;
